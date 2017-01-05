@@ -18,10 +18,6 @@
 
 #import "GTMTVServiceConfiguration.h"
 
-#import "OIDDefines.h"
-#import "OIDErrorUtilities.h"
-#import "OIDServiceDiscovery.h"
-
 /*! @brief The key for the @c TVAuthorizationEndpoint property.
  */
 static NSString *const kTVAuthorizationEndpointKey = @"TVAuthorizationEndpoint";

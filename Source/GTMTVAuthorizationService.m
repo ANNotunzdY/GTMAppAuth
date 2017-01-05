@@ -16,13 +16,10 @@
         limitations under the License.
  */
 
+@import AppAuth;
+
 #import "GTMTVAuthorizationService.h"
 
-#import "OIDAuthState.h"
-#import "OIDAuthorizationService.h"
-#import "OIDDefines.h"
-#import "OIDErrorUtilities.h"
-#import "OIDURLQueryComponent.h"
 #import "GTMAppAuthFetcherAuthorization.h"
 #import "GTMTVAuthorizationRequest.h"
 #import "GTMTVAuthorizationResponse.h"
