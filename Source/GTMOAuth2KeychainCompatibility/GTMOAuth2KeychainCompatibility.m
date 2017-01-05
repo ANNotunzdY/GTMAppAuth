@@ -19,7 +19,7 @@
 #import "GTMOAuth2KeychainCompatibility.h"
 
 #import "AppAuth.h"
-#import "GTMKeychain.h"
+#import "../GTMKeychain.h"
 
 // standard OAuth keys
 static NSString *const kOAuth2AccessTokenKey = @"access_token";
